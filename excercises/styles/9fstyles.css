@@ -1,0 +1,24 @@
+.profile {
+  width: 200px;
+  display: inline-block;
+}
+
+.image {
+  width: 200px;
+  display: block;
+}
+
+.contact-card {
+  width: 200px;
+  display: flexbox;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+button {
+  background-color: rgb(6, 95, 212);
+  border: none;
+  height: 30px;
+  width: 100px;
+  border-radius: 2px;
+  color: white;
+}
